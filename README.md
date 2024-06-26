@@ -13,4 +13,4 @@ $ ./test_logging
 [NN_INFO] This is an information message.
 ```
 
-【:loudspeaker:】编译动态库 `liblogging.so`  
+【📢】编译动态库 `liblogging.so`  
